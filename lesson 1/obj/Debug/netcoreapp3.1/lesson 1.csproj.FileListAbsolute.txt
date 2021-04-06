@@ -1,0 +1,19 @@
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\bin\Debug\netcoreapp3.1\lesson 1.exe
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\bin\Debug\netcoreapp3.1\lesson 1.deps.json
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\bin\Debug\netcoreapp3.1\lesson 1.runtimeconfig.json
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\bin\Debug\netcoreapp3.1\lesson 1.runtimeconfig.dev.json
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\bin\Debug\netcoreapp3.1\lesson 1.dll
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\bin\Debug\netcoreapp3.1\lesson 1.pdb
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1.csprojAssemblyReference.cache
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1_MarkupCompile.cache
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1_MarkupCompile.lref
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1.g.resources
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1.AssemblyInfoInputs.cache
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1.AssemblyInfo.cs
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1.csproj.CoreCompileInputs.cache
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1.dll
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1.pdb
+D:\Repositories\GeekBrains\3 course\1 lesson\lesson 1\lesson 1\obj\Debug\netcoreapp3.1\lesson 1.genruntimeconfig.cache
