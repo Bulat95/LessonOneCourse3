@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:lesson_1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="620" Width="620" WindowStyle="ThreeDBorderWindow">
+        Title="Почта" Height="620" Width="620" WindowStyle="ThreeDBorderWindow">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="#FF222D40" Offset="0"/>
@@ -28,21 +28,21 @@
         </Style>
     </Window.Resources>
     <StackPanel>
-        <Grid>
-            <Grid Name ="Adress" Grid.Row="2">
-                <TextBox Margin="10,257,10,303" Style="{StaticResource Adress}" Text="Кому"/>
+        <Grid x:Name="MainRoot">
+            <Grid Grid.Row="2" >
+                <TextBox Name ="Adress" Margin="10,257,10,303" Style="{StaticResource Adress}" Text="Кому"/>
             </Grid>
-            <Grid Name ="ThemeMessage" Grid.Row="1">
-                <TextBox Margin="10,286,10,274" Style="{StaticResource Theme}" Text="Тема сообщения"/>
+            <Grid Grid.Row="1">
+                <TextBox Name ="ThemeMessage" Margin="10,286,10,274" Style="{StaticResource Theme}" Text="Тема сообщения"/>
             </Grid>
-            <Grid Name ="Message" Grid.Row="0" ContextMenuClosing="Message_ContextMenuClosing">
-                <TextBox Margin="10,315,10,42" Style="{StaticResource Message}" Text="Сообщение"/>
+            <Grid  Grid.Row="0">
+                <TextBox Name ="Message" Margin="10,315,10,42" Style="{StaticResource Message}" Text="Сообщение"/>
             </Grid>
-            <Grid x:Name="Send">
+            <Grid >
                 <Button x:Name="Send1" Margin="517,547,10,10" Content="Отправить" Click="Send1_Click"></Button>
             </Grid>
             <Grid>
-                <TextBlock Margin="94,10,92,367" Text="Почта" FontSize="150" ContextMenuClosing="TextBlock_ContextMenuClosing"></TextBlock>
+                <TextBlock Margin="94,10,92,367" Text="Почта" FontSize="150"></TextBlock>
             </Grid>
         </Grid>
         
